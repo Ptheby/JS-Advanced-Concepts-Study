@@ -176,13 +176,31 @@
 
 //SWAPPING VARIABLES
 
-let name1= "Paul";
-let name2= "Mckenna";
-[name1,name2]=[name2, name1];
-console.log(name1);
+// let name1= "Paul";
+// let name2= "Mckenna";
+// [name1,name2]=[name2, name1];
+// console.log(name1); //MCkenna
 
 
 
+//VIDEO 6- Spread Operator....
+
+//Function Calls  //Object Literals  //Array Literals
+
+
+
+// // Combining Array
+
+// const parents= ['Paul', ' Laura'];
+// const kids= ['Mckenna', ' Walker'];
+// const fullFamily= [...parents,...kids];
+// console.log(fullFamily); //Array 4 "Paul" "Laura" "Mckenna" "Walker"
+
+// // Combining Objects
+// const lion = {hasTail:true, legs:4};
+// const eagle= {canFly:true, wings:2};
+// const hybrid= { name: "Gryphon", ...lion,...eagle};
+// console.log(hybrid);  ///works correctly!
 
 
 
