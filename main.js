@@ -1,4 +1,5 @@
-// // Video 2 Coding Along
+// //VIDEOS 1-6   The rest will have their own folder from now on 
+// Video 2 Coding Along
 // // class Address {
 // //     constructor(zip,street) {
 // //         this.zip= zip
@@ -209,7 +210,7 @@
 
 
 
-
+//VIDEOS 7-9 will have their own folders. 
 
 
 
