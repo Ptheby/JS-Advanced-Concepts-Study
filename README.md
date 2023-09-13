@@ -25,4 +25,15 @@ the "spread syntax" of ...
 We learned how to swap variables by what i took was taking an object and then setting it to an array and just swapping the order?
 Also how to get at a nested object inside an object.  This is helpful because it lets you much easier, get to the values of an array or object without
 having to do it for every single one which is how the old way looked to be. I don't have a ton of questions about this at the moment and 
-it seems that with a little practive it is easy to comprehend. ONe more thing it mentioned was pulling proeprties out of a function by 
+it seems that with a little practive it is easy to comprehend. ONe more thing it mentioned was pulling proeprties out of a function by doing it similar to an object but
+by using paranthesis then {} and creating new variables that way i believe?
+
+VIDEO 6- Spread Operator
+In this video he went over the spread operator which was just touched on in this last video about destructuring. The spread operator can be used in three instances:
+1. function calls
+2. In Array Literals
+3. In object literals
+   He showed how in a fucntion call we, instead of doing the Math.min with numerous list items listed as part of an array, we could use the spread operator ... before the arrays name, so that the function call back will then seperate those array items and analiyze them indivually instread of as a group with a name.
+   the math.min(...temperature) will work the same as Math.min(33,25,25,64,43,87,44) if there is an array named temperature.
+   and it will not return NaN like it would if you just asked it to Math.min(Temperature) becaue it his case it is just looking at the name or as the array as a whole.
+   WE looked at combining and creating new arrays with spread oeprators with the parent and kid and fullFamily example, and we did the same or similar things with object literals with the making of the hybrid animal.  I also took away the idea of mutability whereas we do not want to change originals, but make copies with them using the spread operator, and then changing them or updating them, and then telling the program to use that instead. He was mentioning how this is particulary import for frameworks like react.
