@@ -47,4 +47,22 @@ In this video he went over the spread operator which was just touched on in this
     I ran through the example with him on names and his explanation does not really explain to me how it's useful  or how callback is involved besides in its name or with his example of an oil change.
 WIth the example on names in an arraty then using the names.forEach((name)=> console.log(name). I understand that this is maybe a "built in method" (forEach) that then uses a "callback" with setting name as a parameter in an arrow function. the forEach separates each element in the array but i dont understand how the callback is being "called back". it logs the items from the above array. I have researched this some and don't fully grasp it yet after spenging some time searching around about it. He mentions how the above example is synchronus but not why, then goes on to much more complicated what Asynchronus and lost me on that. Look forward to diving deeper into call backs and how they are useful
 
+Video 9- How Async Javscript Works
+He starts out talking about the callstack and that was very straightforward and i learned from it. The order of how code is executed and how functions impact that. Where he started losing me is with callbacks, i can't decypher how his example worked and he doesnt break it down to where i can undetsand it. I can grasp callbacks with more exercises or further research. He then went through the function callbackHell example as well. Into promises and async is where i am completely lost. I do somewhat understant the over arching concept that this allows the program or us to set aside functions that might need to or are better off to run in the background so that they dont create "log jams" in our program. I read it can be useful for when marking network requests or reading from a file. ASync will toss that in the background until it's done. That is my limited interpretation of it. There were what seemed to be a ton of built in keywords like fetch, response, resolve, reject, then, used after promise, promise.then, any many other terms used that i am unfamiliar with. I can learn with practice and more time. 
+I will read the Async article and other article before class as well. 
+
+
+
+I did enjoy the presentation of some of the videos over the others but i don't think that is any fault of the content creators. it has to do with how well i can follow along. When it's assumed by the presenter that we know things we don't know, it makes it hard to learn from the videos besides get a very basic grasp of the concept. This task had an estimated 4 hours and it took me closer to 10 for just the videos to code along and take notes, google, chat gtp. and i have not looked at the articles yet. 
+
+
+
+
+
+
+
+
+
+
+
 
