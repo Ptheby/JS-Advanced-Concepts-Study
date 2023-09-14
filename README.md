@@ -56,7 +56,7 @@ I will read the Async article and other article before class as well.
 I did enjoy the presentation of some of the videos over the others but i don't think that is any fault of the content creators. it has to do with how well i can follow along. When it's assumed by the presenter that we know things we don't know, it makes it hard to learn from the videos besides get a very basic grasp of the concept. This task had an estimated 4 hours and it took me closer to 10 for just the videos to code along and take notes, google, chat gtp. and i have not looked at the articles yet. 
 
 
-
+I feel somehwat confident in destructuring and spread operator, and the concept of the differnt design patterns. i understand the general concepts behind the async/await, memoization. and am having more trouble understanding how callbacks come into play
 
 
 
