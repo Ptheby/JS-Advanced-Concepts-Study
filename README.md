@@ -42,3 +42,9 @@ In this video he went over the spread operator which was just touched on in this
     What i took from this video is that memoization is a way to drastically reduce inefficiencies by not having to rerun the same computations but instead have fucntions or the program check to see if a certain computation was already done and use those results in cache instead of rerunning them. The example on the Fibonacci Sequence is used because all it is is recalculating figures based on prior results all the way up to infinty. I also learned by reading about it that recursion is the conecpt of a functiuon calling itself inside of itself causing an inifite loop.  I also found that Dynamic programming relies on Memoization and also that Memoization relies on 2 things:
    1. Closures
    2. Higher order functions- functions that operate on other functions
+   3. 
+   VIDEO 8- Callbacks
+    I ran through the example with him on names and his explanation does not really explain to me how it's useful  or how callback is involved besides in its name or with his example of an oil change.
+WIth the example on names in an arraty then using the names.forEach((name)=> console.log(name). I understand that this is maybe a "built in method" (forEach) that then uses a "callback" with setting name as a parameter in an arrow function. the forEach separates each element in the array but i dont understand how the callback is being "called back". it logs the items from the above array. I have researched this some and don't fully grasp it yet after spenging some time searching around about it. He mentions how the above example is synchronus but not why, then goes on to much more complicated what Asynchronus and lost me on that. Look forward to diving deeper into call backs and how they are useful
+
+
