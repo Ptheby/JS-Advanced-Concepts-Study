@@ -94,8 +94,8 @@
 //         broadcast(data) {
 //         for( let i=0; i<this.subscribers.length; i++) {
 //             this.subscribers[i](data);
-//         }
-//     },
+// //         }
+// //     },
 //     };
 
 // }
@@ -216,6 +216,8 @@
 
 
 
+
+const element = document.getElementById('header-cart');
 
 
 
